@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sushant Bagul</h1>
 
+ Hello, my name is Sushant. I’m currently pursuing my post-graduation in Computer Engineering at VJTI, Mumbai, and exploring the exciting world of software engineering. I have experience with cloud technologies and web development, and I've completed internships at Cognizant and 'Future Ready Talent' organized by Microsoft.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushant1209&label=Profile%20views&color=0e75b6&style=flat" alt="sushant1209" /> </p>
 
